@@ -1,9 +1,9 @@
 /*
  * File: 3-print_numbers.c
- * Auth: Brennan D Baraban
+ * Auth: Sam Clemantine
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_numbers - Prints the numbers from 0-9.
