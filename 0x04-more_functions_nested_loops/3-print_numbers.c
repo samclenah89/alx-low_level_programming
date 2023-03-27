@@ -1,3 +1,10 @@
+/*
+ * File: 3-print_numbers.c
+ * Auth: Brennan D Baraban
+ */
+
+#include "holberton.h"
+
 /**
  * print_numbers - Prints the numbers from 0-9.
  */
