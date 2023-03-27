@@ -1,9 +1,3 @@
-/*
- * File: 3-print_numbers.c
- */
-
-#include "main.h"
-
 /**
  * print_numbers - Prints the numbers from 0-9.
  */
